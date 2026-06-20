@@ -1,6 +1,6 @@
 # abhishekmenon84
 <h1 align="center">Hi, I'm Abhishek Menon 👋</h1>
-<h3 align="center">Founder, iHomeMap | REALTOR® | President, Association of Indo-Canadians</h3>
+<h3 align="center">Founder, iHomeMap | REALTOR® - Remax East Coast Elite Realty | President, Association of Indo-Canadians</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Fredericton%2C%20NB-red?style=flat-square" />
