@@ -79,4 +79,4 @@ I sit at the intersection of **enterprise systems engineering**, **real estate**
 
 ---
 
-<p align="center"><i>Currently shipping floor plans, teleprompters, and moisture sensors — one Claude Code prompt at a time.</i></p>
+<p align="center"><i>Currently shipping <a href="https://apps.apple.com/ca/app/ihomemap/id6770341864">floor plans</a>, teleprompters, and moisture sensors — one Claude Code prompt at a time.</i></p>
