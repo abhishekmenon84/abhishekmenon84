@@ -1,6 +1,6 @@
 # abhishekmenon84
 <h1 align="center">Hi, I'm Abhishek Menon 👋</h1>
-<h3 align="center">Founder, iHomeMap | REALTOR® - Remax East Coast Elite Realty | President, Association of Indo-Canadians</h3>
+<h3 align="center">Founder, iHomeMap & iFlowRead | REALTOR® - Remax East Coast Elite Realty | President, Association of Indo-Canadians</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Fredericton%2C%20NB-red?style=flat-square" />
@@ -19,7 +19,7 @@ I sit at the intersection of **enterprise systems engineering**, **real estate**
 - 🤝 President @ **Association of Indo-Canadians**
 - 🤖 Using **Claude Code & Claude Cowork** to accelerate development and QA
 - 🎓 B.Comp.Eng | CCNA | AWS Cloud Practitioner (in progress) | PMP & ITIL (in progress)
-- 🏢 15+ years prior: Lead Solution Engineer @ Siemens Canada, Software Developer @ IBM Q1 Labs
+- 🏢 18+ years prior: Lead Solution Engineer @ Siemens Canada, Software Developer @ IBM Q1 Labs
 
 ---
 
@@ -27,7 +27,7 @@ I sit at the intersection of **enterprise systems engineering**, **real estate**
 
 | App | What it does |
 |---|---|
-| **iHomeMap** | LiDAR/ARKit-powered floor plan scanning for real estate & inspections |
+| **[iHomeMap](https://apps.apple.com/ca/app/ihomemap/id6770341864)** | LiDAR/ARKit-powered floor plan scanning for real estate & inspections — **live on the App Store** |
 | **[iFlowRead](https://apps.apple.com/us/app/iflowread/id6779711186)** | Teleprompter app built for realtor marketing & video content — **live on the App Store** |
 | **AccuMist** | Acoustic drywall moisture detection for home inspectors |
 
@@ -79,4 +79,4 @@ I sit at the intersection of **enterprise systems engineering**, **real estate**
 
 ---
 
-<p align="center"><i>Currently shipping <a href="https://apps.apple.com/ca/app/ihomemap/id6770341864">floor plans</a>, <a href="https://apps.apple.com/us/app/iflowread/id6779711186">teleprompters</a>, and moisture sensors — one Claude Code prompt at a time.</i></p>
+<p align="center"><i>Shipped <a href="https://apps.apple.com/ca/app/ihomemap/id6770341864">iHomeMap</a> and <a href="https://apps.apple.com/us/app/iflowread/id6779711186">iFlowRead</a> — moisture sensors app coming next, one Claude Code prompt at a time.</i></p>
