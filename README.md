@@ -28,7 +28,7 @@ I sit at the intersection of **enterprise systems engineering**, **real estate**
 | App | What it does |
 |---|---|
 | **iHomeMap** | LiDAR/ARKit-powered floor plan scanning for real estate & inspections |
-| **iFlowRead** | Teleprompter app built for realtor marketing & video content |
+| **[iFlowRead](https://apps.apple.com/us/app/iflowread/id6779711186)** | Teleprompter app built for realtor marketing & video content — **live on the App Store** |
 | **AccuMist** | Acoustic drywall moisture detection for home inspectors |
 
 ---
@@ -79,4 +79,4 @@ I sit at the intersection of **enterprise systems engineering**, **real estate**
 
 ---
 
-<p align="center"><i>Currently shipping <a href="https://apps.apple.com/ca/app/ihomemap/id6770341864">floor plans</a>, teleprompters, and moisture sensors — one Claude Code prompt at a time.</i></p>
+<p align="center"><i>Currently shipping <a href="https://apps.apple.com/ca/app/ihomemap/id6770341864">floor plans</a>, <a href="https://apps.apple.com/us/app/iflowread/id6779711186">teleprompters</a>, and moisture sensors — one Claude Code prompt at a time.</i></p>
